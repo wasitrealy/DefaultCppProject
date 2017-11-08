@@ -12,7 +12,7 @@ Please do not run "FULL_clean.sh" outside of the project folder, it might delete
 
 Instructions: 
 1. Put your working c++ code in the src/ folder, modify CMakeLists.txt to how you need it.
-2. Run ./build.sh
+2. Run ./build.sh inside the project folder
 3. You now have an executeable in the same directory as build.sh (with the same name as the directory)
 
 Tested and working with cmake 3.9.4, bash 4.4.12, gnu make 4.2.1
